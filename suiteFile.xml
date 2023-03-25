@@ -5,4 +5,4 @@
       <class name="test.TestClass"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite -->
+</suite> 
