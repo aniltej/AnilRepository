@@ -19,7 +19,7 @@ public class TestClass {
 		co.addArguments("--remote-allow-origins=*");
 		RemoteWebDriver driver = new ChromeDriver(co);
 		driver.get("https://automationexercise.com/signup");
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		Assert.assertTrue(true);
 		driver.close();
 	}
